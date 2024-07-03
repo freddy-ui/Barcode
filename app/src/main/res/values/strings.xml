@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Barcode</string>
+    <string name="gallery">Abrir Galería</string>
+    <string name="desc1">logo</string>
 </resources>

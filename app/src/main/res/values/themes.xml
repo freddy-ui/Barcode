@@ -6,4 +6,9 @@
     </style>
 
     <style name="Theme.Barcode" parent="Base.Theme.Barcode" />
+
+    <style name="start" parent="Theme.Barcode">
+        <item name="android:windowBackground">@color/celeste</item>
+    </style>
+
 </resources>
